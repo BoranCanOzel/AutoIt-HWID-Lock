@@ -25,7 +25,7 @@ These scripts are written in AutoIt and are intended to work together to create 
 
 ## 📬 Contact
 
-For any inquiries, please contact me at [me@boranozel.com].
+For any inquiries, please contact me at me@boranozel.com.
 
 ## ⭐ Acknowledgements
 
